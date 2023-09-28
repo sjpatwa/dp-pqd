@@ -13,4 +13,4 @@ We consider the following dataset for the private database $D$:
  - SUM_*.ipynb - Files divided based on the solution and also the parameter being varied. Implementation for $LM_{sum}, R2T_{sum}$, and $SVT_{sum}$, followed by the queries and code used for the $SUM$ query experiments.
 
 ### Environment
-We have implemented the per-query deciders in Python $3.8.8$ using Pandas and NumPy libraries. All experiments were run on Apple M$1$ CPU @$3.2$ GHz with $16$ GB of RAM.
+We have implemented the per-query deciders in Python 3.8.8 using Pandas and NumPy libraries. All experiments were run on Apple M1 CPU @3.2 GHz with 16 GB of RAM.
